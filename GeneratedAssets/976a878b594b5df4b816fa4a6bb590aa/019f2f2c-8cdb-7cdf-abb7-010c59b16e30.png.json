@@ -1,0 +1,41 @@
+{
+    "asset": "976a878b594b5df4b816fa4a6bb590aa",
+    "fileName": "019f2f2c-8cdb-7cdf-abb7-010c59b16e30.png",
+    "prompt": "High-resolution corporate logo for the King Salman Humanitarian Aid & Relief Centre. A circular emblem with horizontal golden stripes, a large green leaf cradling the base, and elegant circular Arabic and English calligraphy surrounding the upper half. Clean white background, 4k, vector style, perfect symmetry. Precise reproduction of the provided reference.",
+    "negativePrompt": "",
+    "model": "gpt-image-1",
+    "modelName": "GPT Image 1",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelatePixelGridSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": [
+            {
+                "doodleReferenceType": 7,
+                "doodle": [],
+                "label": "Image",
+                "strength": 0.25,
+                "invertStrength": false,
+                "assetReferenceGuid": "241a07f805ce5214d98199d2967cecaf",
+                "unlabeledIndex": -1
+            }
+        ]
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 1024,
+        "height": 1024
+    },
+    "spriteSheet": false,
+    "duration": 0.0,
+    "dynamicParams": {
+        "serializedData": []
+    }
+}

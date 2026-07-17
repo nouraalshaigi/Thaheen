@@ -1,0 +1,23 @@
+{
+    "asset": "26a62500cd41be641a26566dd2900d6d",
+    "fileName": "019f2f31-44dc-75a9-a281-1ceb2291f4f9.glb",
+    "prompt": "Official high-detail architectural 3D building sign based on the provided logo. The logo should be reconstructed as a thick 3D plaque with the emblem and text as a raised relief. Use premium polished metal (gold and silver) and reflective glass materials. Ensure the structure has realistic depth and clean architectural edges. No flat textures. Solid 3D volume. High fidelity.",
+    "negativePrompt": "",
+    "model": "model3d-hunyuan-3d-pro-3-1",
+    "modelName": "Hunyuan 3D 3.1 Pro",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "promptImageReferenceGuid": "c4dce93844a151e4dbf04aec52ddae07",
+    "modelReferenceGuid": "",
+    "multiviewFrontGuid": "",
+    "multiviewBackGuid": "",
+    "multiviewLeftGuid": "",
+    "multiviewRightGuid": "",
+    "multiviewTopGuid": "",
+    "multiviewBottomGuid": "",
+    "multiviewLeftFrontGuid": "",
+    "multiviewRightFrontGuid": "",
+    "faceLimit": -1
+}

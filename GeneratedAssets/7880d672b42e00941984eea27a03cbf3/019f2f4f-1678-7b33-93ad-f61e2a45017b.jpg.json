@@ -1,0 +1,41 @@
+{
+    "asset": "7880d672b42e00941984eea27a03cbf3",
+    "fileName": "019f2f4f-1678-7b33-93ad-f61e2a45017b.jpg",
+    "prompt": "A high-resolution corporate logo. A dark brown square background containing a centered white vertical parallelogram. The parallelogram is skewed upwards towards the right. Clean vector style, minimalist, professional. Perfect reproduction of the provided reference.",
+    "negativePrompt": "",
+    "model": "flux-2-pro",
+    "modelName": "Flux 2 (Pro)",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelatePixelGridSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": [
+            {
+                "doodleReferenceType": 7,
+                "doodle": [],
+                "label": "Image",
+                "strength": 0.25,
+                "invertStrength": false,
+                "assetReferenceGuid": "738be60bc14a32f41aa39d1e78c59c1f",
+                "unlabeledIndex": -1
+            }
+        ]
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 1024,
+        "height": 1024
+    },
+    "spriteSheet": false,
+    "duration": 0.0,
+    "dynamicParams": {
+        "serializedData": []
+    }
+}

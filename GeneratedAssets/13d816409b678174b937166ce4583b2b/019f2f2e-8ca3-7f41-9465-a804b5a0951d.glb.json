@@ -1,0 +1,23 @@
+{
+    "asset": "13d816409b678174b937166ce4583b2b",
+    "fileName": "019f2f2e-8ca3-7f41-9465-a804b5a0951d.glb",
+    "prompt": "Premium 3D architectural building logo sign. High-detail reconstruction of the emblem: a sphere with horizontal golden metallic bands, a large organic green leaf base, and precise circular calligraphy. Recreate this as a solid 3D structure with significant thickness and depth. Use polished gold, vibrant green, and clean white materials. Production-ready signage for a skyscraper.",
+    "negativePrompt": "",
+    "model": "model3d-tripo3-1",
+    "modelName": "Tripo 3.1",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "promptImageReferenceGuid": "976a878b594b5df4b816fa4a6bb590aa",
+    "modelReferenceGuid": "",
+    "multiviewFrontGuid": "",
+    "multiviewBackGuid": "",
+    "multiviewLeftGuid": "",
+    "multiviewRightGuid": "",
+    "multiviewTopGuid": "",
+    "multiviewBottomGuid": "",
+    "multiviewLeftFrontGuid": "",
+    "multiviewRightFrontGuid": "",
+    "faceLimit": -1
+}

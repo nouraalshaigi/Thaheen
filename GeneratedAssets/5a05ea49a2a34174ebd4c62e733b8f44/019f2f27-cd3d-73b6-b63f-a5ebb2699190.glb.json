@@ -1,0 +1,23 @@
+{
+    "asset": "5a05ea49a2a34174ebd4c62e733b8f44",
+    "fileName": "019f2f27-cd3d-73b6-b63f-a5ebb2699190.glb",
+    "prompt": "Official building logo sign. High-quality 3D architectural signage with realistic thickness and depth. Premium materials including polished metal edges and a sleek glass-like finish. Reconstruct the logo symbols and text as a unified 3D structure suitable for a skyscraper facade. Maintain exact proportions and colors.",
+    "negativePrompt": "",
+    "model": "model3d-tripo-p1",
+    "modelName": "Tripo P1",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "promptImageReferenceGuid": "c4dce93844a151e4dbf04aec52ddae07",
+    "modelReferenceGuid": "",
+    "multiviewFrontGuid": "",
+    "multiviewBackGuid": "",
+    "multiviewLeftGuid": "",
+    "multiviewRightGuid": "",
+    "multiviewTopGuid": "",
+    "multiviewBottomGuid": "",
+    "multiviewLeftFrontGuid": "",
+    "multiviewRightFrontGuid": "",
+    "faceLimit": -1
+}

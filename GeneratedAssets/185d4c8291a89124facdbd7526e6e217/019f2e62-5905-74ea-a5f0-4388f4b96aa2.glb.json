@@ -1,0 +1,23 @@
+{
+    "asset": "185d4c8291a89124facdbd7526e6e217",
+    "fileName": "019f2e62-5905-74ea-a5f0-4388f4b96aa2.glb",
+    "prompt": "King Salman Humanitarian Aid & Relief Centre logo. Standalone 3D architectural monument. High-fidelity representation of the emblem: a sphere with segmented horizontal golden bands, a large organic green leaf cradling the base with wheat grain details, and precise circular Arabic and English calligraphy surrounding the upper half. Polished gold and vibrant green materials. Sleek, clean, professional finish.",
+    "negativePrompt": "",
+    "model": "model3d-tripo-p1",
+    "modelName": "Tripo P1",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "promptImageReferenceGuid": "241a07f805ce5214d98199d2967cecaf",
+    "modelReferenceGuid": "",
+    "multiviewFrontGuid": "",
+    "multiviewBackGuid": "",
+    "multiviewLeftGuid": "",
+    "multiviewRightGuid": "",
+    "multiviewTopGuid": "",
+    "multiviewBottomGuid": "",
+    "multiviewLeftFrontGuid": "",
+    "multiviewRightFrontGuid": "",
+    "faceLimit": -1
+}

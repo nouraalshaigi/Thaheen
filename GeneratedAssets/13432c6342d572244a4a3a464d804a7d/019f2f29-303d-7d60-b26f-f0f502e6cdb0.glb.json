@@ -1,0 +1,23 @@
+{
+    "asset": "13432c6342d572244a4a3a464d804a7d",
+    "fileName": "019f2f29-303d-7d60-b26f-f0f502e6cdb0.glb",
+    "prompt": "High-detail 3D architectural signage monument based on the provided logo. The logo consists of a circular emblem and text. Recreate these as thick, extruded 3D geometry with polished metal finishes and clear glass-like accents. The final structure must be solid and suitable for a skyscraper facade. Proportions must be exact. High fidelity reconstruction.",
+    "negativePrompt": "",
+    "model": "model3d-tripo-p1",
+    "modelName": "Tripo P1",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "promptImageReferenceGuid": "c4dce93844a151e4dbf04aec52ddae07",
+    "modelReferenceGuid": "",
+    "multiviewFrontGuid": "",
+    "multiviewBackGuid": "",
+    "multiviewLeftGuid": "",
+    "multiviewRightGuid": "",
+    "multiviewTopGuid": "",
+    "multiviewBottomGuid": "",
+    "multiviewLeftFrontGuid": "",
+    "multiviewRightFrontGuid": "",
+    "faceLimit": -1
+}

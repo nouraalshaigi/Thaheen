@@ -1,0 +1,23 @@
+{
+    "asset": "8d61dbaab71e73f4d9ed2806e021dfbf",
+    "fileName": "019f2f2a-6bfe-72a7-8abc-f1a871f568d7.glb",
+    "prompt": "A thick 3D architectural plaque for a building facade. The plaque should have the provided logo and text embossed or as a high-detail 3D relief. Use premium polished metal and glass materials. Ensure the object is a solid 3D volume with significant depth and clean architectural edges. Production-ready signage.",
+    "negativePrompt": "",
+    "model": "model3d-tripo-p1",
+    "modelName": "Tripo P1",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "promptImageReferenceGuid": "c4dce93844a151e4dbf04aec52ddae07",
+    "modelReferenceGuid": "",
+    "multiviewFrontGuid": "",
+    "multiviewBackGuid": "",
+    "multiviewLeftGuid": "",
+    "multiviewRightGuid": "",
+    "multiviewTopGuid": "",
+    "multiviewBottomGuid": "",
+    "multiviewLeftFrontGuid": "",
+    "multiviewRightFrontGuid": "",
+    "faceLimit": -1
+}

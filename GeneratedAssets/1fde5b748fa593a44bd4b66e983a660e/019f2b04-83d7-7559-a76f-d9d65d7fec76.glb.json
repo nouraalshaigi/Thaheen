@@ -1,0 +1,23 @@
+{
+    "asset": "1fde5b748fa593a44bd4b66e983a660e",
+    "fileName": "019f2b04-83d7-7559-a76f-d9d65d7fec76.glb",
+    "prompt": "Kingdom Centre skyscraper, Riyadh. High detail architecture with silver-blue glass facade and white structural trim. Parabolic skybridge arch at the top. Sleek modern design.",
+    "negativePrompt": "",
+    "model": "model3d-tripo-p1",
+    "modelName": "Tripo P1",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "promptImageReferenceGuid": "f54a475e558858046abb28e041373cb5",
+    "modelReferenceGuid": "",
+    "multiviewFrontGuid": "",
+    "multiviewBackGuid": "",
+    "multiviewLeftGuid": "",
+    "multiviewRightGuid": "",
+    "multiviewTopGuid": "",
+    "multiviewBottomGuid": "",
+    "multiviewLeftFrontGuid": "",
+    "multiviewRightFrontGuid": "",
+    "faceLimit": -1
+}
