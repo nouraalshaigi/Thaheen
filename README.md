@@ -268,14 +268,3 @@ The build folder normally includes:
 - `UnityPlayer.dll`
 - Other Unity-generated files
 
-## Submission Package
-
-Recommended submission structure:
-
-```text
-Thaheen_Submission/
-├── Build/
-├── README.md
-├── Demo.mp4
-└── Presentation.pdf
-```
