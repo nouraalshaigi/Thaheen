@@ -37,6 +37,36 @@ It is a game-based financial learning experience with an Arabic RTL interface an
 - Goal progress tracking
 - Virtual money only
 
+## Technologies Used
+
+### Game Development
+- Unity 6
+- C#
+
+### Backend
+- Python
+- FastAPI
+- Render
+
+### Market Data
+- Yahoo Finance
+
+### Networking
+- UnityWebRequest
+- JSON
+
+### UI/UX Design
+- Figma
+- TextMeshPro (TMP)
+
+### 3D Assets
+- Meshy AI
+- Unity Asset Store
+
+### Version Control
+- GitHub
+
+
 ## Game Scenes
 
 The project currently uses two main scenes:
@@ -247,24 +277,13 @@ The Unity Build Profiles scene order must be:
 
 `SampleScene` should remain disabled or be removed from the active build scene list.
 
-## How to Build for Windows
+## Team
 
-1. Open `File → Build Profiles`.
-2. Select `Windows`.
-3. Open `Scene List`.
-4. Confirm that `StartFlowScene` is first.
-5. Confirm that `OGscene` is second.
-6. Click `Build` or `Build And Run`.
-7. Select an empty output folder.
+**Team Name:** ذهين (Thaheen)
 
-The Windows build folder must be distributed as a complete folder.
+**Team Members:**
+- Noura Alshaigi
+- Nouf Alhamlan
+- Noura Abuthnain
 
-Do not share only the `.exe` file.
-
-The build folder normally includes:
-
-- The game `.exe`
-- The `_Data` folder
-- `UnityPlayer.dll`
-- Other Unity-generated files
 
